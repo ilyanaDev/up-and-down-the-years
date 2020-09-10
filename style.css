@@ -1,4 +1,13 @@
 body {
-    background-color: blue;
-    color: red;
+    background-color: #F3FAFF;
+    color: black;
+    padding: 5%;
+}
+.header {
+    padding: 40px;
+    padding-top: 20px;
+    color: blue;
+    text-align: center;
+    background-color: #B9E2FF;
+    color: #254154;
 }
