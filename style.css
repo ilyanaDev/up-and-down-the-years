@@ -2,8 +2,7 @@ body {
     background-color: #B09A5A;
     color: black;
     text-align: center;
-    font-family: Times, serif;
-    font-size: 15px;
+    font-family: Times, serif;  
 }
 .header {
     padding-top: 20px;
@@ -12,4 +11,41 @@ body {
     background-color: #EBE0C0;
     font-family: Georgia, serif;
     font-size: 22px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: rgb(5, 38, 145);
+}
+
+.topnav a.active:hover {
+    background-color: white;
+    color: black;
+}
+
+.iframe {
+    width: 972.8px;
+    height: 547.2px;
+    align-items: center;
+}
+
+p .paragraphs {
+    text-justify: distribute;
 }
