@@ -50,6 +50,31 @@ body {
     height: 590px;
     align-items: center;
 }
+.iframeUlmPic {
+    width: 588px;
+    height: 441px;
+    align-items: center;
+}
+.iframeEngelmann {
+    width: 588px;
+    height: 352px;
+    align-items: center;
+}
+.iframeKoenig {
+    width: 588px;
+    height: 417px;
+    align-items: center;
+}
+.iframeLeipold {
+    width: 588px;
+    height: 368px;
+    align-items: center;
+}
+.iframeStagl {
+    width: 588px;
+    height: 441px;
+    align-items: center;
+}
 
 @media (max-width: 980px)
 {
